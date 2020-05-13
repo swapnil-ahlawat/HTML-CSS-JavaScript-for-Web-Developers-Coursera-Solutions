@@ -2,7 +2,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: Comic Sans, Comic Sans MS, cursive;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
 }
 
 h1 {
@@ -22,7 +22,7 @@ section {
 }
 p {
   padding: 10px;
-  margin-top: 25px;
+  margin-top: 23px;
 }
 h2 {
   float: right;
