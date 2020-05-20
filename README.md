@@ -5,3 +5,5 @@
 17th May 2020: Module 3 Website using Bootstrap Assignment implemented correctly
 
 18th May 2020: Module 4 Javascript implemented correctly
+
+20th May 2020: Module 5 Dynamically Loading Page implemented correctly
